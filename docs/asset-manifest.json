@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-multi-page-router-app/static/css/main.8f19e1ca.css",
+    "main.js": "/react-multi-page-router-app/static/js/main.a133a531.js",
+    "static/js/453.1cd54aad.chunk.js": "/react-multi-page-router-app/static/js/453.1cd54aad.chunk.js",
+    "index.html": "/react-multi-page-router-app/index.html",
+    "main.8f19e1ca.css.map": "/react-multi-page-router-app/static/css/main.8f19e1ca.css.map",
+    "main.a133a531.js.map": "/react-multi-page-router-app/static/js/main.a133a531.js.map",
+    "453.1cd54aad.chunk.js.map": "/react-multi-page-router-app/static/js/453.1cd54aad.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8f19e1ca.css",
+    "static/js/main.a133a531.js"
+  ]
+}
